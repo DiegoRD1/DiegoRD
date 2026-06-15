@@ -21,7 +21,7 @@ Atualmente, graduando em **Análise e Desenvolvimento de Sistemas** pelo IFMG, a
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="INSS" src=https://github.com/DiegoRD1/DiegoRD/issues/1#issue-4665909302>](https://www.gov.br/inss/)
+[<img align="left" height="94px" width="94px" alt="INSS" src=https://github.com/user-attachments/assets/da4d88c8-c095-4a62-9644-18a7bf235135>](https://www.gov.br/inss/)
 
 **Especialista em Automação e Suporte de TI** \
 [**INSS**](https://www.gov.br/inss/) • Full-time \
