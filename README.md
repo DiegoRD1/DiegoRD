@@ -1,5 +1,6 @@
-<!-- COLE SEU BANNER AQUI (linha de imagem markdown) -->
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,0c0032,3500d3,100&height=250&section=header&text=Diego%20Reis&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkle&desc=Full%20Stack%20%7C%20Automação%20E2E%20%7C%20Universo%20Digital&descSize=20&descAlignY=65" width="100%" alt="Banner Universo Digital Diego Reis" />
+</div>
 ## Olá, eu sou Diego Reis 👋
 
 Desenvolvedor Full Stack e Especialista em Automação de Processos, unindo código limpo a operações robustas para transformar complexidade em eficiência operacional.
@@ -29,10 +30,10 @@ Linguagens & Tecnologias: `Python`, `SQL`, `Shell`, `Redes TCP/IP` \
 Projetos em destaque: Automação de Processos, Diagnóstico de Infraestrutura
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Prefeitura Municipal" src="INSIRA_A_URL_DA_IMAGEM_AQUI"/>](https://prefeitura.ribeiraodasneves.mg.gov.br/)
+[<img align="left" height="100px" width="100px" alt="Prefeitura Municipal" src="https://github.com/user-attachments/assets/2e0c050c-e9be-4c70-8782-b075fa5ea47a"/>](https://prefeitura.ribeiraodasneves.mg.gov.br/)
 
 **Gestão de Dados e Análise Tributária** \
-[**Prefeitura Municipal de Ribeirão das Neves**](https://prefeitura.ribeiraodasneves.mg.gov.br/) • Contract \
+[**Prefeitura Municipal de Ribeirão das Neves**](https://prefeitura.ribeiraodasneves.mg.gov.br/)  \
 Linguagens & Tecnologias: `Excel Avançado`, `SQL`, `Processamento de Dados` \
 Projetos em destaque: Validação de CNDs, Conferência de Tributos
 <br/>
