@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <radialGradient id="galaxy" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#2a1147"/>
+      <stop offset="40%" stop-color="#0f051d"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    
+    <style>
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.1; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.2); }
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-5px); }
+        100% { transform: translateY(0px); }
+      }
+      .star { 
+        fill: #ffffff; 
+        animation: twinkle infinite alternate; 
+      }
+      .s1 { animation-duration: 2s; }
+      .s2 { animation-duration: 3s; animation-delay: 1s; }
+      .s3 { animation-duration: 1.5s; animation-delay: 0.5s; }
+      .s4 { animation-duration: 4s; animation-delay: 2s; }
+      
+      .glow { 
+        fill: #d4b3ff; 
+        filter: blur(4px); 
+        animation: twinkle 4s infinite alternate; 
+      }
+      
+      .nebula {
+        fill: #5a2c8f;
+        filter: blur(40px);
+        opacity: 0.4;
+        animation: float 10s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#galaxy)"/>
+
+  <circle cx="200" cy="100" r="150" class="nebula" />
+  <circle cx="900" cy="300" r="200" class="nebula" fill="#2a458f" />
+
+  <g class="star s1">
+    <circle cx="100" cy="50" r="1.5"/>
+    <circle cx="450" cy="150" r="1.2"/>
+    <circle cx="800" cy="80" r="1.5"/>
+    <circle cx="1100" cy="250" r="2"/>
+    <circle cx="650" cy="350" r="1"/>
+  </g>
+
+  <g class="star s2">
+    <circle cx="200" cy="300" r="2"/>
+    <circle cx="600" cy="100" r="1.8"/>
+    <circle cx="950" cy="350" r="2.2"/>
+    <circle cx="50" cy="200" r="1.5"/>
+    <circle cx="720" cy="40" r="2"/>
+  </g>
+
+  <g class="star s3">
+    <circle cx="350" cy="50" r="1"/>
+    <circle cx="750" cy="250" r="1.5"/>
+    <circle cx="1050" cy="120" r="2"/>
+    <circle cx="250" cy="180" r="1.2"/>
+    <circle cx="850" cy="50" r="1.5"/>
+  </g>
+
+  <g class="glow">
+    <circle cx="300" cy="120" r="4"/>
+    <circle cx="850" cy="200" r="5"/>
+    <circle cx="500" cy="320" r="4.5"/>
+    <circle cx="100" cy="350" r="6"/>
+  </g>
+  <g class="star s4">
+    <circle cx="300" cy="120" r="2"/>
+    <circle cx="850" cy="200" r="2.5"/>
+    <circle cx="500" cy="320" r="2"/>
+    <circle cx="100" cy="350" r="2.5"/>
+  </g>
+</svg>
