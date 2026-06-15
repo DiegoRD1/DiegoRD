@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,0c0032,3500d3,100&height=250&section=header&text=Diego%20Reis&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkle&desc=Full%20Stack%20%7C%20Automação%20E2E%20%7C%20Universo%20Digital&descSize=20&descAlignY=65" width="100%" alt="Banner Universo Digital Diego Reis" />
+  <img src="https://raw.githubusercontent.com/DiegoRD1/DiegoRD/main/gemini-svg.svg" alt="Banner Galáxia Animado" width="100%" />
 </div>
 ## Olá, eu sou Diego Reis 👋
 
@@ -83,7 +83,7 @@ Projetos em destaque: Validação de CNDs, Conferência de Tributos
 
 ## 📈 Telemetria do GitHub
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<seu-usuario>&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&layout=compact&theme=github_dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoRD1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRD1&layout=compact&theme=github_dark&hide_border=true) |
 |:---:|:---:|
 | Estatísticas de contribuição | Linguagens mais utilizadas |
 
